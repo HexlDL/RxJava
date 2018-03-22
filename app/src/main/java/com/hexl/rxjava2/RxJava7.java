@@ -15,7 +15,7 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * Company: 辽宁众信同行软件开发有限公司
+ * Company: 
  * <p>
  * Description: 主要学习了 Flowable 操作符
  *              解决在异步线程中上游发送事件下游可以接收到不会导致 oom
