@@ -13,7 +13,7 @@ import io.reactivex.functions.BiFunction;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * Company: 辽宁众信同行软件开发有限公司
+ * Company: 
  * <p>
  * Description:zip 操作符
  * 最终下游收到的事件数量 是和上游中发送事件最少的那一根水管的事件数量 相同.
