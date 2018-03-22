@@ -13,7 +13,7 @@ import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * Company: 辽宁众信同行软件开发有限公司
+ * Company: 
  * <p>
  * Description: 遗留了一个问题,在异步线程时上游不断发送事件,就会导致 oom
  * 这个问题将到 RxJava6 解决
