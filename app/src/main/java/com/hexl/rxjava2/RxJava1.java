@@ -13,7 +13,7 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.functions.Consumer;
 
 /**
- * Company: 辽宁众信同行软件开发有限公司
+ * Company: 
  * <p>
  * Description: 初次学习了解 RxJava
  *              注意: 只有当上游和下游建立连接之后, 上游才会开始发送事件.
