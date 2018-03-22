@@ -24,7 +24,7 @@ import io.reactivex.schedulers.Schedulers;
 import retrofit2.Retrofit;
 
 /**
- * Company: 辽宁众信同行软件开发有限公司
+ * Company: 
  * <p>
  * Description: 学习 RxJava map flatMap concatMap 操作符
  *
