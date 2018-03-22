@@ -11,7 +11,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Company: 辽宁众信同行软件开发有限公司
+ * Company: 
  * <p>
  * Description:
  *
