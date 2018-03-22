@@ -1,7 +1,7 @@
 package com.hexl.rxjava2;
 
 /**
- * Company: 辽宁众信同行软件开发有限公司
+ * Company: 
  * <p>
  * Description:
  *
