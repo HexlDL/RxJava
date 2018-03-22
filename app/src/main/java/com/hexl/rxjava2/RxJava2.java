@@ -12,7 +12,7 @@ import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * Company: 辽宁众信同行软件开发有限公司
+ * Company: 
  * <p>
  * Description: 线程之间切换
  *
